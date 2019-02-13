@@ -19,7 +19,7 @@ namespace LibClases
         private int NroClaves;
         //==================Metodos===========================
         //-----------------Constructores------------------------------
-        //Hola bebecita Kotaro
+        //Hola bebecita Lucio
         public CEntidad(string pNombreTabla)
         {
             //inicializar los atributos
