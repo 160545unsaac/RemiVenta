@@ -14,7 +14,6 @@ namespace LibClases
         //--------constructores -----------------------
         public CCliente() : base("TCliente")
         {
-            //comentario
         }        
         //-------Implementacion de Metodos Abstractos--
         public override string[] NombresAtributos()

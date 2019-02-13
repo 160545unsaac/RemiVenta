@@ -22,7 +22,7 @@ namespace LibClases
         }
         public override int NroDeClaves()
         {
-            return 1;///Falta mejores 
+            return 2;///Falta mejores 
         }
     }
 }
