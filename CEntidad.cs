@@ -20,6 +20,7 @@ namespace LibClases
         //==================Metodos===========================
         //-----------------Constructores------------------------------
         //Hola bebecita Lucio
+        //Hola
         public CEntidad(string pNombreTabla)
         {
             //inicializar los atributos
